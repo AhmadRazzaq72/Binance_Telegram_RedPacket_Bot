@@ -1,6 +1,6 @@
 
 ------------------------------------------------------------
-🎟 Coupon Auto-Redeemer Bot
+Coupon Auto-Redeemer Bot
 ------------------------------------------------------------
 
 A Python automation tool that applies coupon codes on Binance (or similar platforms) from Telegram using Selenium WebDriver.
