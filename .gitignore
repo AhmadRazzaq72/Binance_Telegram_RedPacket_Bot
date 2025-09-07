@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+redeem_log.txt
+
+# Environment
+.env
+
+# Selenium / Chrome
+chromedriver.exe
+chromedriver.log
+
+# Telethon session files
+*.session
+*.session-journal
