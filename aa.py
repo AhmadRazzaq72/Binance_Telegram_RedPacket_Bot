@@ -1,6 +1,9 @@
 # Try these simple fixes one by one
 
 # Fix 1: Use HTTP proxy instead of SOCKS5
+import utils.http_session
+import utils.transport
+import utils.session
 import asyncio
 from telethon import TelegramClient
 import aiohttp
