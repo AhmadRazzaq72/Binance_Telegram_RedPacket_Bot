@@ -19,7 +19,6 @@ env/
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 
 # Logs
@@ -27,7 +26,6 @@ Thumbs.db
 redeem_log.txt
 
 # Environment
-.env
 
 # Selenium / Chrome
 chromedriver.exe
@@ -36,3 +34,5 @@ chromedriver.log
 # Telethon session files
 *.session
 *.session-journal
+config.bat
+node_modules
